@@ -2,6 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Improving my JavaScript skills by coding daily and building projects.<br><br>👯 I’m looking to collaborate on<br>Web development projects, Hackathons, and creative ideas that can make a positive impact.<br><br>🤝 I’m looking for help with<br>Mastering React and improving my problem-solving skills.<br><br>🌱 I’m currently learning<br>JavaScript, React, and enhancing my front-end development skills.<br><br>💬 Ask me about<br>Python, HTML, CSS, JavaScript, React<br><br>⚡ Fun fact<br>I am basically a professional napper.<br>&<br>My favorite exercise is... turning off alarms. 🏋️‍♀️🫠
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Eshha.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/esha-patel-9463ab317) 
