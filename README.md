@@ -1,14 +1,30 @@
 <div align="center" style="background-color:#0a1931; color:#ffffff; padding: 20px; border-radius: 12px;">
 
 # Hi 👋, I'm Esha Patel  
-### A Passionate front-end developer and aspiring full-stack engineer 🚀
+### A Passionate front-end developer and aspiring full-stack engineer 🚀  
+</div>
 
-🏗️ **Currently Working On:** Improving my JavaScript skills by coding daily and building projects.  
-📚 **Currently Learning:** JavaScript, React, and enhancing my front-end and back-end development skills.  
-🤝 **Looking For Help With:** Mastering React and improving my problem-solving skills.  
-💬 **Ask Me About:** Python, HTML, CSS, JavaScript, React, PHP.  
-📩 **Reach Me At:** eshaptl1212@gmail.com  
-😴 **Fun Fact:** I'm basically a professional napper. & My favorite exercise is... turning off alarms. 🏋️‍♀️🫠  
+---
+
+### 🏗️ Currently Working On:  
+- Improving my JavaScript skills by coding daily and building projects.  
+
+### 📚 Currently Learning:  
+- JavaScript, React, and enhancing my front-end and back-end development skills.  
+
+### 🤝 Looking For Help With:  
+- Mastering React and improving my problem-solving skills.  
+
+### 💬 Ask Me About:  
+- Python, HTML, CSS, JavaScript, React, PHP.  
+
+### 📩 Reach Me At:  
+- **eshaptl1212@gmail.com**  
+
+### 😴 Fun Fact:  
+- I'm basically a professional napper.  
+- My favorite exercise is... turning off alarms. 🏋️‍♀️🫠  
+
 
 ---
 
