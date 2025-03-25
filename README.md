@@ -21,11 +21,6 @@
 ### 📩 Reach Me At:  
 - **eshaptl1212@gmail.com**  
 
-### 😴 Fun Fact:  
-- I'm basically a professional napper.  
-- My favorite exercise is... turning off alarms. 🏋️‍♀️🫠  
-
-
 ---
 
 ### 📱 Connect with me:
