@@ -1,0 +1,21 @@
+name: Update README with Repos
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight UTC
+  workflow_dispatch:     # also allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate repo list
+        uses: timburgan/profile-readme-repos-generator@main
+        with:
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          username: eshhaa11
+          max_repos: 100
+          sort: created
+          direction: desc
