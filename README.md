@@ -65,17 +65,24 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/eshhaa11"><img src="https://github-readme-stats.vercel.app/api?username=eshhaa11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="eshhaa11's GitHub stats" /></a>
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-bottom: 20px;">
+  <a href="http://www.github.com/eshhaa11">
+    <img src="https://github-readme-stats.vercel.app/api?username=eshhaa11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="eshhaa11's GitHub stats" />
+  </a>
 
-<a href="http://www.github.com/eshhaa11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eshhaa11&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+  <a href="http://www.github.com/eshhaa11">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshhaa11&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
+  </a>
+</div>
 
-<a href="https://github.com/eshhaa11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshhaa11&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
----
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a href="https://github.com/eshhaa11">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshhaa11&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</div>
 
-Here's a list of my repositories:
 
-## 📚 My GitHub Repositories
 
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
+
+
