@@ -1,18 +1,32 @@
 <h1 align="center">Hi 👋, I'm Esha Patel</h1>
-<h3 align="center">A Passionate front-end developer and aspiring full-stack engineer</h3>
+
+---
+
+<h3 align="center">Full-Stack Engineering Student</h3>
 
 ---
 
 - 🔭 I’m currently working on **Improving my JavaScript skills by coding daily and building projects.**
+  
+  
 - 🌱 I’m currently learning **JavaScript, React, and enhancing my front-end and back-end development skills**
+
+
 - 👯 I’m looking to collaborate on **Web development projects, Hackathons, and creative ideas that can make a positive impact.**
+  
+  
 - 🤝 I’m looking for help with **Mastering React and improving my problem-solving skills.**
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, React, PHP**
-- 📫 How to reach me **patellesha11@gmail.com**
+  
+  
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, React, PHP, SQL **
+
+  ---
+  
+- 📫 Reach out to me on:  **Patellesha11@gmail.com**
 
 ---
 
-### Skills
+### My Skills:
 
 <p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" /></a>
@@ -33,7 +47,7 @@
 
 ---
 
-### Socials
+### My Socials:
 
 <p align="center">
   <a href="https://www.github.com/eshhaa11" target="_blank" rel="noreferrer">
