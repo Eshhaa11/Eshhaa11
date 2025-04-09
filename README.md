@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **Web development projects, Hackathons, and creative ideas that can make a positive impact.**
 - 🤝 I’m looking for help with **Mastering React and improving my problem-solving skills.**
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, React, PHP**
-- 📫 How to reach me **eshaptl1212@gmail.com**
+- 📫 How to reach me **patellesha11@gmail.com**
 
 ---
 
