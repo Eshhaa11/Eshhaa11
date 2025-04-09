@@ -18,7 +18,7 @@
 - 🤝 I’m looking for help with **Mastering React and improving my problem-solving skills.**
   
   
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, React, PHP, SQL **
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, React, PHP, SQL.**
 
   ---
   
