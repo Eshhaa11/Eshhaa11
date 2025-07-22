@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **improving my skills by coding daily and building projects**
 - 🌱 I’m currently learning and enhancing both **front-end** and **back-end** development skills
 - 👯 I’m looking to collaborate on **web development projects, hackathons**, and **creative ideas that make a positive impact**
-- 📫 Reach me at: **eshaptl1212@gmail.com**
+- 📫 Reach me at: **patellesha11@gmail.com**
 
 ---
 
