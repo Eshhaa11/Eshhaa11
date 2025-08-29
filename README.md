@@ -1,6 +1,6 @@
-<h1 align="center">Esha Patel</h1>
-<h2 align="center">Coding, Crying and Compiling
-<h3 align="center">Full-Stack Engineer</h3>
+<h1 align="center">Esha Patel </h1>
+<h2 align="center">Coding, Crying and Compiling 💤
+<h3 align="center">Full-Stack Developer 👩🏻‍💻</h3>
 
 ---
 
